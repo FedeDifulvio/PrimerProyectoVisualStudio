@@ -1,0 +1,11 @@
+E:\PROGRAMACION\C#\ProyectoInterfazGrafica\ProyectoInterfazGrafica\bin\Release\ProyectoInterfazGrafica.exe.config
+E:\PROGRAMACION\C#\ProyectoInterfazGrafica\ProyectoInterfazGrafica\bin\Release\ProyectoInterfazGrafica.exe
+E:\PROGRAMACION\C#\ProyectoInterfazGrafica\ProyectoInterfazGrafica\bin\Release\ProyectoInterfazGrafica.pdb
+E:\PROGRAMACION\C#\ProyectoInterfazGrafica\ProyectoInterfazGrafica\obj\Release\ProyectoInterfazGrafica.csprojAssemblyReference.cache
+E:\PROGRAMACION\C#\ProyectoInterfazGrafica\ProyectoInterfazGrafica\obj\Release\ProyectoInterfazGrafica.IVA.resources
+E:\PROGRAMACION\C#\ProyectoInterfazGrafica\ProyectoInterfazGrafica\obj\Release\ProyectoInterfazGrafica.Inicio.resources
+E:\PROGRAMACION\C#\ProyectoInterfazGrafica\ProyectoInterfazGrafica\obj\Release\ProyectoInterfazGrafica.Properties.Resources.resources
+E:\PROGRAMACION\C#\ProyectoInterfazGrafica\ProyectoInterfazGrafica\obj\Release\ProyectoInterfazGrafica.csproj.GenerateResource.cache
+E:\PROGRAMACION\C#\ProyectoInterfazGrafica\ProyectoInterfazGrafica\obj\Release\ProyectoInterfazGrafica.csproj.CoreCompileInputs.cache
+E:\PROGRAMACION\C#\ProyectoInterfazGrafica\ProyectoInterfazGrafica\obj\Release\ProyectoInterfazGrafica.exe
+E:\PROGRAMACION\C#\ProyectoInterfazGrafica\ProyectoInterfazGrafica\obj\Release\ProyectoInterfazGrafica.pdb
